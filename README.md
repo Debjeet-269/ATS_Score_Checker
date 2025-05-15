@@ -22,7 +22,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/samalsachin/ATS_SCORE_CHECKER_JAVA.git
+git clone https://github.com/Debjeet-269/ATS_Score_Checker.git
 
 Set up MySQL database and import necessary schema.
 
